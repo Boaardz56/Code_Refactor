@@ -86,7 +86,7 @@ aside {
     background-color: #2589bd;
 }
 /* Condensing benefit lead, brand, cost since all the same colors and margin size */
-.benefit-lead, .benefit-brand, .benefit-cost {
+.sectionbenefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -98,7 +98,7 @@ aside {
 }
 
 /*Condensing benefit lead, brand, cost images*/
-.benefit-lead img, .benefit-brand img, .benefit-cost img  {
+.benefitImg  {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -118,7 +118,7 @@ aside {
     max-height: 200px;
 }
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.benefits h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
