@@ -92,7 +92,7 @@ aside {
 }
 
 /* Condensing benefit lead, brand, cost to one h3 since margin-bottom and text-align all the same*/
-.benefit h3 {
+.sectionbenefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
