@@ -25,8 +25,8 @@ Visual Studio Code was used to edit a pre-existing code from Horiseon Social Med
 
 ## Credits
 
-[Microsoft Example](https://github.com/microsoft/vscode)
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Microsoft Example](https://github.com/microsoft/vscode)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 ## License
