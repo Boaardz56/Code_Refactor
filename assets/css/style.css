@@ -104,6 +104,10 @@ aside {
     max-width: 150px;
 }
 
+.sectionbenefit p {
+    text-align: center;
+}
+
 .benefits {
     margin-bottom: 20px;
     padding: 50px;

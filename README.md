@@ -4,7 +4,7 @@
 
 This repository started with an existing code and was refacted to increase web accessibility. Horiseon Social Media Services wants their site to be more optimized for all search engines. With the help of Visual Studio Code, we are able to format the prewritten code to meet their expectations.
 
-A great start was to give several of the <div> titles in the html a semantic tag. Once the semantic tags were issues, classes were set to move foward in working with the CSS file. As there were several repetitive tags in the existing CSS, grouping those together with one class file removed the previous looping tags. 
+A great start was to give several of the old HTML div titles in the html a semantic tag. Once the semantic tags were issues, classes were set to move foward in working with the CSS file. As there were several repetitive tags in the existing CSS, grouping those together with one class file removed the previous looping tags. 
 
 The goal was not to change anything with the way the website was presented, as it has a catching image hero at the top and a navigation bar that leads you to the sections showcasing their online marketing and management skills.
 
